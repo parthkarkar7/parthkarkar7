@@ -5,8 +5,10 @@
 </div>
 ### :fire: My Stats :
 <br/>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=parthkarkar7&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+<img src="https://github-readme-streak-stats.herokuapp.com?user=parthkarkar7&theme=dark&date_format=j%20M%5B%20Y%5D"/>
+<img src="https://git.io/streak-stats" />
 <br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parthkarkar7&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parthkarkar7&layout=compact&theme=vision-friendly-dark"/>
 <br/>
-![Parth's GitHub stats](https://github-readme-stats.vercel.app/api?username=parthkarkar7&show_icons=true&theme=radical)
+<p>Parth's GitHub stats</p>
+<img src="https://github-readme-stats.vercel.app/api?username=parthkarkar7&show_icons=true&theme=radical"/>
