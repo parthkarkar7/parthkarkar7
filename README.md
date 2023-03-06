@@ -10,5 +10,4 @@
 <br/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parthkarkar7&layout=compact&theme=vision-friendly-dark"/>
 <br/>
-<p>Parth's GitHub stats</p>
 <img src="https://github-readme-stats.vercel.app/api?username=parthkarkar7&show_icons=true&theme=radical"/>
